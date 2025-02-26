@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @iasserklein
-- 👀 I’m interested in  Tecnologia da Informação.
-- 🌱 I’m currently learning programação.
-- 💞️ I’m looking to collaborate on empresas do ramo.
+- 👀 I’m interested in front-end development.
+- 🌱 I’m currently learning programming.
+- 💞️ I’m looking to collaborate on tech companies.
